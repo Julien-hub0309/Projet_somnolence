@@ -281,5 +281,3 @@ cv2.destroyAllWindows()
 ```
 
 ---
-
-[Sommaire Travaux pratique](../../../Sommaire/Sommaire%20Travaux%20pratique.md)
